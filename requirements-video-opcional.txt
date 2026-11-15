@@ -1,0 +1,2 @@
+# Only if you supply assets/video/fondo_lunar.mp4 and want playback in the intro
+opencv-python>=4.8,<5
